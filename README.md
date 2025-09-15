@@ -1,12 +1,5 @@
 # Next Destination  
 A full-stack Airbnb clone with CRUD operations, user authentication, and data validation. Integrated **Mapbox** for location services and **Cloudinary** for image management.  
-
-<p align="center">
-  <b style="color: blue;">Visitor count</b>
-  <br>
-  <img src="https://profile-counter.glitch.me/namaste-yatra/count.svg" />
-</p>
-
 ---
 
 ## 🎯 Objective  
@@ -88,3 +81,4 @@ CLOUD_API_SECRET=
 MAP_TOKEN= 
 ATLASDB_URL= 
 SECRET= 
+
